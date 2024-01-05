@@ -4,7 +4,11 @@
 
 # To run this project
 
-You have to run on the command line
+First of all, you had to have NodeJS, if you don't have you can [download here](https://nodejs.org/en/download)
+
+You can check **node** was installed by using **`node -v`**  
+
+Then, you have to run on the command line
 
 ### `npm install`
 
